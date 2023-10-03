@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/artem/CLionProjects/C_lab/iu7-cprog-labs-2023-novikovartem/lab_07_01_01 Select CMakeLists.txt
